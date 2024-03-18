@@ -34,6 +34,7 @@ https://github.com/Yorshka-Vermilion/UnrealEngine---City-Generator/assets/595435
   - **DowngradeChance** - chance to downgrade road type to lower tier. If no lower tier is present, street is finished.
   - **BuildingChance** - how likely is to spawn building next to this type of road. (it is also affected by other parameters)
   - **Radius wieight** (Breakpoint/Downgrade/Building) - how much distance from center of a town affect chances of breakpoint/downgrade/bulding.
+    
   ![Przechwytywanie](https://github.com/Yorshka-Vermilion/UnrealEngine---City-Generator/assets/59543577/aa8e8c6d-b148-454f-8d39-ef0281857d4b)
 - **Buildings** - array of possible buildings
 - **Enviroments C** - array of posible enviromental structures
